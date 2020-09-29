@@ -8,3 +8,5 @@ Product service
 
 Expose an api to return list of products
 Do TDD.
+
+Write Travis CI intgration to compile code and create docker image. Deploy docker image to aws ECR
